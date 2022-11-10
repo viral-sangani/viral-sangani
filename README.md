@@ -1,123 +1,93 @@
-# Viral Sangani&nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-<!--
-    &nbsp; [![HitCount](http://hits.dwyl.com/viral-sangani/viral-sangani.svg)](http://hits.dwyl.com/viral-sangani/viral-sangani)
--->
-
-<img align="right" alt="PC GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Earth.gif" width="24px">
-
+## Hi, I’m Viral Sangani <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <em>
-    I am <b>Software Developer</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web3    Enthusiast,</b>&nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
 </p>
 
-<br>
-
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m _currently learning_ how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/hmm.gif" width="20vw" /> I’m _looking_ for _help_ with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴
-
-<br>
-
-![Viral's github stats](https://github-readme-stats.vercel.app/api?username=viral-sangani&show_icons=true&hide_border=true)
-
-<br>
-
-<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-
-<!-- # Connect with me<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Handshake.gif" height="32px">
-
-| [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/viral-sangani) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/viral-sangani) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/viral-sangani/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/viral-sangani) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/viral-sangani) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:viral-sangani@gmail.com) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | -->
-
-<br>
-<br>
-
-<!--
-
-![Dino](https://github.com/viral-sangani/viral-sangani/blob/master/Assets/dino.gif)
+<p align ="center">
+  <a  href="https://viralsangani.me" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>	
+  <a href="mailto:viral.sangani2011@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://www.linkedin.com/in/viral-sangani/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+ 
+  </a>  
+  <a href="https://twitter.com/viral_sangani_" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+  </p>
 
 
-| [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Linkedin.svg" alt="Shubhamdeep Jha | Linkedin" width="34">](https://in.linkedin.com/in/viral-sangani) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|---|---|
+<p >Viral Sangani is a Web3 Developer, where he is improving his skills and learn new technologies in decentralized world and deploying to the modern web. He also writes @ Viral Sangani's Blog, a place where he writes about new technologies and mostly Web3 related stuff. He spends a lot of time writing to share what he’s learned in tech world. He build, automate and sometine help people rescue applications. This frequently boils down to help community members grow and learn from each other at every opportunity and share what we learn . His motto in life is , **Pursue Passions Not Paychecks**, **Invest in Ideas That Matter** and **Be Lazy and Dumb**. He is trying his very best to follow his own advice. He lives in India 🇮🇳.
+</p>
 
 
 
+## Top Projects
+
+<a href="https://github.com/viral-sangani/blog.viralsangani.me">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viral-sangani&repo=blog.viralsangani.me&theme=tokyonight" />
+
+</a>  
+
+<a href="https://github.com/viral-sangani/flutter_walletconnect">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=viral-sangani&repo=flutter_walletconnect&theme=tokyonight" />
+
+</a> 
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<a href="https://github.com/viral-sangani/Polymarket-clone">
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=viral-sangani&repo=Polymarket-clone&theme=tokyonight" />
+
+</a> 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=viral-sangani)
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
--->
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Viral's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viral-sangani&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viral-sangani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="viral-sangani" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/viral-sangani"><img alt="Viral's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viral-sangani&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=viral-sangani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
