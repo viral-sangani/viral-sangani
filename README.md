@@ -17,8 +17,8 @@
 - 🌱 I'm currently learning: **📚 Exploring AI**
 - 💬 Ask me about: **💡 Scalability, Web3, Solidity, EVM, Rust, JS/TS, Cloud**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="viralsangani.me" target="_blank">🌎 viralsangani.me</a>**
-- 📝 Blog: **<a href="blog.viralsangani.me" target="_blank">🔖 blog.viralsangani.me</a>**
+- 📂 Portfolio: **<a href="https://viralsangani.me" target="_blank">🌎 viralsangani.me</a>**
+- 📝 Blog: **<a href="https://blog.viralsangani.me" target="_blank">🔖 blog.viralsangani.me</a>**
 
 
  **<h3 align="center">Skills</h3>**
