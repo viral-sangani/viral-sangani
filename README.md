@@ -1,5 +1,3 @@
-![👋 Hi, my name is Vee-ral](https://avatars.githubusercontent.com/u/36530381?v=4)
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
