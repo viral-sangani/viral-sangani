@@ -1,93 +1,36 @@
-## Hi, I’m Viral Sangani <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web3+Developer;I'm+also+a+DevRel+at+Celo+Foundation" /></a>
+![👋 Hi, my name is Vee-ral](https://avatars.githubusercontent.com/u/36530381?v=4)
+
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Vee-ral
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/viral-sangani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/x.com/viral-sangani" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Some in Blockchain & Web3**
+- 🌱 I'm currently learning: **📚 Exploring AI**
+- 💬 Ask me about: **💡 Scalability, Web3, Solidity, EVM, Rust, JS/TS, Cloud**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 📂 Portfolio: **<a href="🌎 viralsangani.me" target="_blank">🌎 viralsangani.me</a>**
+- 📝 Blog: **<a href="🔖 blog.viralsangani.me" target="_blank">🔖 blog.viralsangani.me</a>**
+
+
+ **<h3 align="center">Skills</h3>**
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=graphql" height="28" alt="Graphql" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="28" alt="Nextjs" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="28" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=express" height="28" alt="Express" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=django" height="28" alt="Django" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=redis" height="28" alt="Redis" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=dynamodb" height="28" alt="DynamoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=elasticsearch" height="28" alt="Elasticsearch" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flutter" height="28" alt="Flutter" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=aws" height="28" alt="AWS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=azure" height="28" alt="Azure" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=gcp" height="28" alt="GCP" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=terraform" height="28" alt="Terraform" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=kubernetes" height="28" alt="Kubernetes" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=firebase" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=supabase" height="28" alt="Supabase" style="margin-right: 4px"></p>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=viral-sangani&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=viral-sangani&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<p align ="center">
-  <a  href="https://viralsangani.me" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>	
-  <a href="mailto:viral.sangani2011@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
-   <a href="https://www.linkedin.com/in/viral-sangani/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
- 
-  </a>  
-  <a href="https://twitter.com/viral_sangani_" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-  </p>
-
-
-<p >Viral Sangani is a Web3 Developer, where he is improving his skills and learn new technologies in decentralized world and deploying to the modern web. He also writes @ Viral Sangani's Blog, a place where he writes about new technologies and mostly Web3 related stuff. He spends a lot of time writing to share what he’s learned in tech world. He build, automate and sometine help people rescue applications. This frequently boils down to help community members grow and learn from each other at every opportunity and share what we learn . His motto in life is , **Pursue Passions Not Paychecks**, **Invest in Ideas That Matter** and **Be Lazy and Dumb**. He is trying his very best to follow his own advice. He lives in India 🇮🇳.
-</p>
-
-
-
-## Top Projects
-
-<a href="https://github.com/viral-sangani/blog.viralsangani.me">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viral-sangani&repo=blog.viralsangani.me&theme=tokyonight" />
-
-</a>  
-
-<a href="https://github.com/viral-sangani/flutter_walletconnect">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=viral-sangani&repo=flutter_walletconnect&theme=tokyonight" />
-
-</a> 
-
-
-<a href="https://github.com/viral-sangani/Polymarket-clone">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=viral-sangani&repo=Polymarket-clone&theme=tokyonight" />
-
-</a> 
-
-
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Viral's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viral-sangani&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viral-sangani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="viral-sangani" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/viral-sangani"><img alt="Viral's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viral-sangani&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=viral-sangani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
